@@ -1,9 +1,28 @@
+<img src="https://i.pinimg.com/originals/1e/2d/8c/1e2d8c65052e3f1b6f8e3bf4f718c583.gif" width="300px" align="right">
+
 ### Olá meu nome é Vinícius
 Busco minha primeira experiência em trabalho na área de <br>
 Programação, atualmente cursando Desenvolvimento de Sistemas <br>
 na escola SENAI
 
-<img src="https://i.pinimg.com/originals/1e/2d/8c/1e2d8c65052e3f1b6f8e3bf4f718c583.gif" width="300px" align="right">
+<br><br>
+
+### CONHECIMENTOS
+
+![HTML5](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+![CSharp](https://img.shields.io/badge/CSharp-9B4F97?style=for-the-badge&logo=CSharp&logoColor=67217A)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)
+
+
+![.NET](https://img.shields.io/badge/SQL Server-f1f1f1?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927) <br>
+
+
+
                                                                                                                     
 
 <!--
