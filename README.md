@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá meu nome é Vinícius
+Busco minha primeira experiência em trabalho na área de <br>
+Programação, atualmente cursando Desenvolvimento de Sistemas <br>
+na escola SENAI
 
 <img src="https://i.pinimg.com/originals/1e/2d/8c/1e2d8c65052e3f1b6f8e3bf4f718c583.gif" width="300px" align="right">
                                                                                                                     
