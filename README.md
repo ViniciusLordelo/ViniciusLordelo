@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://pa1.narvii.com/7900/2364bb1302d986aae5486205da8f97e6e8611896r1-400-400_hq.gif" width="300px" align="right">
+<img src="https://i.pinimg.com/originals/1e/2d/8c/1e2d8c65052e3f1b6f8e3bf4f718c583.gif" width="300px" align="right">
                                                                                                                     
 
 <!--
