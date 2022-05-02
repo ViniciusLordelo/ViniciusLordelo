@@ -2,7 +2,7 @@
 
 ### Olá meu nome é Vinícius
 Busco minha primeira experiência em trabalho na área de <br>
-Programação, atualmente cursando Desenvolvimento de Sistemas <br>
+Programação, atualmente cursei Desenvolvimento de Sistemas <br>
 na escola SENAI
 
 <br><br>
