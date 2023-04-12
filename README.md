@@ -1,8 +1,8 @@
 <img src="https://i.pinimg.com/originals/1e/2d/8c/1e2d8c65052e3f1b6f8e3bf4f718c583.gif" width="300px" align="right">
 
 ### Olá meu nome é Vinícius
-Full-Stack Developer <br>Técnico em Desenvolvimento de Sistemas pelo SENAI Informática<br>
-Estudante de Ciência da Computação na Uninove<br>Trainee em Salesforce na SIS Soluções.<br>Conhecimento nas Métodologias Ágeis de Scrum e Kanban
+Full-Stack Developer <br>Técnico em Desenvolvimento de Sistemas pelo SENAI Informática.<br>
+Estudante de Ciência da Computação na Uninove.<br>Trainee em Salesforce na SIS Soluções.<br>Conhecimento nas Métodologias Ágeis de Scrum e Kanban.
 
 
 <br><br>
