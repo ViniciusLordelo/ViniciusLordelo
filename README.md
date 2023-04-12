@@ -2,7 +2,7 @@
 
 ### Olá meu nome é Vinícius
 Full-Stack Developer <br>Técnico em Desenvolvimento de Sistemas pelo SENAI Informática<br>
-Estudante de Ciência da Computação na Uninove<br>Trainee em Salesforce na SIS Soluções.<br>
+Estudante de Ciência da Computação na Uninove<br>Trainee em Salesforce na SIS Soluções.<br>Conhecimento nas Métodologias Ágeis de Scrum e Kanban
 
 
 <br><br>
