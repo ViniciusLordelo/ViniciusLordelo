@@ -2,7 +2,7 @@
 
 ### Olá meu nome é Vinícius
 Full-Stack Developer <br>Técnico em Desenvolvimento de Sistemas pelo SENAI Informática<br>
-Estudante de Ciência da Computação na Uninove<br>Trainee em Salesforce na SIS Soluções. <br>
+Estudante de Ciência da Computação na Uninove<br>Trainee em Salesforce na SIS Soluções.<br>
 
 
 <br><br>
@@ -20,7 +20,6 @@ Estudante de Ciência da Computação na Uninove<br>Trainee em Salesforce na SIS
 
 
 ![.NET](https://img.shields.io/badge/SQL Server-f1f1f1?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927) <br>
-![Kanban]
 
 
                                                                                                                     
