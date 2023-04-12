@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/1e/2d/8c/1e2d8c65052e3f1b6f8e3bf4f718c583.gif" width="300px" align="right">
 
 ### Olá meu nome é Vinícius
-Full-Stack Developer | Técnico em Desenvolvimento de Sistemas pelo SENAI Informática |<br>
+Full-Stack Developer <br>| Técnico em Desenvolvimento de Sistemas pelo SENAI Informática |<br>
 Estudante de Ciência da Computação na Uninove | Trainee na SIS Soluções. <br>
 
 
