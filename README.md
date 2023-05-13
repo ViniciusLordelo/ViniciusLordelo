@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/1e/2d/8c/1e2d8c65052e3f1b6f8e3bf4f718c583.gif" width="300px" align="right">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhasbulla-gif-25044516&psig=AOvVaw3bXWGjCwlHEjSVdqmZkBPI&ust=1684042131861000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi0nezH8f4CFQAAAAAdAAAAABAE" width="300px" align="right"> 
 
 ### Olá meu nome é Vinícius
 Full-Stack Developer <br>Técnico em Desenvolvimento de Sistemas pelo SENAI Informática.<br>
